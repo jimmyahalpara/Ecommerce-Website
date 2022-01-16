@@ -1,0 +1,6 @@
+change port in package.json by set PORT = 4000
+intall 
+-React-bootstep
+-redux ==> to pass data easly in nested component, kind of store
+-react-redux  ==> To connect with store , This add in index.js of main app and wrap inside <Provider> with store
+-redux-thunk  ==> To make API call syncronaslly
